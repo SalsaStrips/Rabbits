@@ -1,14 +1,13 @@
-# Rabbits
+<head>
 <!doctype html>
 <html>
-<head>
 <meta charset="utf-8">
-<title>Fun with rabbits</title>
 </head>
 
 <body>
 	<h1>Rabbits</h1>
 	<h2>A fluffle of fun!</h2>
+	<!--Fun with rabbits-->
 	<br>
 	<br>
 	<p style="color:blue">Having a rabbit as a pet is the most entertaining thing ever.</p>
